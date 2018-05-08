@@ -2,8 +2,7 @@
 
 ### Após clonar o projeto execute a instalação dos pacotes npm:
 
-```
-npm install```
+```npm install```
 
 *Antes de iniciar o projeto verificar se o mongo está rodando na porta 27017*	
 
